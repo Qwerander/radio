@@ -1,3 +1,3 @@
 # radio-Wave
 Демо страница Радио
-https://qwerander.github.io/radio-Wave/
+[https://pavel-gustavo.vercel.app/](https://pavel-gustavo.vercel.app/)
